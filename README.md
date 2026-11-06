@@ -4,10 +4,10 @@ macOS 滴答清单桌面悬浮面板，通过滴答清单 MCP 显示和完成今
 
 ## 最新安装包
 
-- 版本：0.3.5
+- 版本：0.3.6
 - 平台：macOS 13+，Apple Silicon（arm64）
-- 文件：`releases/DidaFloat-0.3.5-arm64.zip`
-- SHA-256：`f3c9975819460754ac494643bec6a794e5eb087527d6f5a71e1bd46e3b5092c3`
+- 文件：`releases/DidaFloat-0.3.6-arm64.zip`
+- SHA-256：`fd1854e3c4b4c3ab0f8e8715cdc523e55ade4db95c77f1bd78324900eb5e9f14`
 
 全局显示/隐藏快捷键默认为 `Control + Option + Command + D`，现在可以在设置中录制并修改，重启后仍会保留。
 
