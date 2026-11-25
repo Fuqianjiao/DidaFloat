@@ -4,10 +4,12 @@ macOS 滴答清单桌面悬浮面板，通过滴答清单 MCP 显示和完成今
 
 ## 最新安装包
 
-- 版本：0.3.7
+- 版本：0.3.8
 - 平台：macOS 13+，Apple Silicon（arm64）
-- 文件：`releases/DidaFloat-0.3.7-arm64.zip`
-- SHA-256：`b734d7039430d79d2245bd909e63793c51697d7dce8b3337831fbf3669c3d604`
+- 文件：[DidaFloat-0.3.8-arm64.zip](releases/DidaFloat-0.3.8-arm64.zip)
+- SHA-256：`f091e5c44be0506919e452f71776241c2d701878f3aea45fd2a7ee8b4f3cfa9c`
+
+0.3.8 新增「开机自动启动」开关，开启后在登录 macOS 时启动。任务旁的「便签」可读写滴答清单中的任务描述。另一端修改后，可重新打开便签或手动刷新。
 
 全局显示/隐藏快捷键默认为 `Control + Option + Command + D`，现在可以在设置中录制并修改，重启后仍会保留。
 
